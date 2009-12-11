@@ -1,0 +1,13 @@
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x4400019
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x4400019
+QThreadStorage: Thread 0x9d16058 exited after QThreadStorage 2147483612 destroyed
+QThreadStorage: Thread 0x9d16058 exited after QThreadStorage 2147483613 destroyed
+QThreadStorage: Thread 0x9d16058 exited after QThreadStorage 2147483614 destroyed
+QThreadStorage: Thread 0x9d16058 exited after QThreadStorage 2147483615 destroyed
+QThreadStorage: Thread 0x9d16058 exited after QThreadStorage 2147483616 destroyed
+QThreadStorage: Thread 0x9d16058 exited after QThreadStorage 2147483617 destroyed
+QThreadStorage: Thread 0x9d16058 exited after QThreadStorage 2147483636 destroyed

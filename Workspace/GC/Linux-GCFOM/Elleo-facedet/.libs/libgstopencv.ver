@@ -1,0 +1,13 @@
+{ global:
+gst_edgedetect_get_type;
+gst_edgedetect_plugin_init;
+gst_faceblur_get_type;
+gst_faceblur_plugin_init;
+gst_facedetect_get_type;
+gst_facedetect_plugin_init;
+gst_plugin_desc;
+gst_pyramidsegment_get_type;
+gst_pyramidsegment_plugin_init;
+gst_templatematch_get_type;
+gst_templatematch_plugin_init;
+local: *; };
